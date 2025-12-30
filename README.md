@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm İsmail Köylü 👋
 
-<!--
-**ismailkoylu/ismailkoylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence and Data Engineering Student @ ITU
 
-Here are some ideas to get you started:
+İstanbul Teknik Üniversitesi'nde Yapay Zeka ve Veri Mühendisliği 2. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve otonom sistemler üzerine odaklanıyor; havacılık ve savunma sanayii teknolojilerine büyük ilgi duyuyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Eğitim:** İTÜ Yapay Zeka ve Veri Mühendisliği (GPA: 3.15)
+- 🔭 **Şu an ne üzerine çalışıyorum:** Makine öğrenmesi modellerinin yayına alınması (deployment) ve gerçek zamanlı bilgisayarlı görü sistemleri.
+- 🌱 **Öğreniyorum:** Derin öğrenme mimarileri ve savunma sanayii ekosistemi.
+- 💬 **İlgi Alanları:** Otonom uçuş sistemleri, veri güvenliği ve topluluk yönetimi.
+
+---
+
+### 🛠 Tech Stack
+
+- **Programlama Dilleri:** C++, Python, JavaScript, HTML, CSS
+- **Veri Bilimi & AI:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow
+- **Araçlar & Teknolojiler:** Git/GitHub, VS Code, Jupyter, Streamlit, SQL
+
+---
+
+### 🚀 Öne Çıkan Projeler
+
+1. **[ML Model Deployment Dashboard](link)**: Eğitilmiş ML modellerinin Streamlit ile web ortamına aktarılması.
+2. **[Real-Time Face Recognition](link)**: Canlı kamera akışı üzerinden gerçek zamanlı biyometrik analiz ve yüz tanıma.
+3. **[Encrypted Diary Vault](link)**: AES (Fernet) şifreleme ve OOP prensipleri kullanılarak geliştirilmiş güvenli veri yönetim uygulaması.
+4. **[World Happiness Data Analysis](link)**: Pandas ve Seaborn ile kapsamlı keşifsel veri analizi ve görselleştirme.
+5. **[Statistical Inference Modeling](link)**: Olasılık dağılımları ve hipotez testleri üzerine istatistiksel modelleme çalışması.
+
+---
+
+### 🤝 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/ismailkoylu](link)
+- **Email:** ismailkoylu092@gmail.com
+
+---
+
+![İsmail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailkoylu&show_icons=true&theme=tokyonight)
