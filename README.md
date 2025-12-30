@@ -4,14 +4,14 @@
 
 İstanbul Teknik Üniversitesi'nde Yapay Zeka ve Veri Mühendisliği 2. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve otonom sistemler üzerine odaklanıyor; havacılık ve savunma sanayii teknolojilerine büyük ilgi duyuyorum.
 
-- 🎓 **Eğitim:** İTÜ Yapay Zeka ve Veri Mühendisliği (GPA: 3.15)
-- 🔭 **Şu an ne üzerine çalışıyorum:** Makine öğrenmesi modellerinin yayına alınması (deployment) ve gerçek zamanlı bilgisayarlı görü sistemleri.
-- 🌱 **Öğreniyorum:** Derin öğrenme mimarileri ve savunma sanayii ekosistemi.
-- 💬 **İlgi Alanları:** Otonom uçuş sistemleri, veri güvenliği ve topluluk yönetimi.
+- **Eğitim:** İTÜ Yapay Zeka ve Veri Mühendisliği (GPA: 3.15)
+- **Şu an ne üzerine çalışıyorum:** Makine öğrenmesi modellerinin yayına alınması (deployment) ve gerçek zamanlı bilgisayarlı görü sistemleri.
+- **Öğreniyorum:** Derin öğrenme mimarileri,Model Yayına Alma (MLOps),Müzik Teknolojileri ve Yapay Zeka ve Savunma Sanayii Ekosistemi.
+- **İlgi Alanları:** Veri Bilimi ve Makine Öğrenmesi,Otonom Sistemler ve Robotik.
 
 ---
 
-### 🛠 Tech Stack
+### Teknik
 
 - **Programlama Dilleri:** C++, Python, JavaScript, HTML, CSS
 - **Veri Bilimi & AI:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### Projeler
 
 1. **[ML Model Deployment Dashboard](link)**: Eğitilmiş ML modellerinin Streamlit ile web ortamına aktarılması.
 2. **[Real-Time Face Recognition](link)**: Canlı kamera akışı üzerinden gerçek zamanlı biyometrik analiz ve yüz tanıma.
@@ -29,7 +29,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/ismailkoylu](link)
 - **Email:** ismailkoylu092@gmail.com
