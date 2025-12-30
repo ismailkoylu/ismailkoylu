@@ -5,7 +5,7 @@
 İstanbul Teknik Üniversitesi'nde Yapay Zeka ve Veri Mühendisliği 2. sınıf öğrencisiyim. Veri bilimi, makine öğrenmesi ve otonom sistemler üzerine odaklanıyor; havacılık ve savunma sanayii teknolojilerine büyük ilgi duyuyorum.
 
 - **Eğitim:** İTÜ Yapay Zeka ve Veri Mühendisliği (GPA: 3.15)
-- **Şu an ne üzerine çalışıyorum:** Makine öğrenmesi modellerinin yayına alınması (deployment) ve gerçek zamanlı bilgisayarlı görü sistemleri.
+- **Şu an ne üzerine çalışıyorum:** Makine öğrenmesi, derin öğrenme ve veri mühendisliği üzerine öğrenim görüyor, araştırmalar yapıyorum.
 - **Öğreniyorum:** Derin öğrenme mimarileri,Model Yayına Alma (MLOps),Müzik Teknolojileri ve Yapay Zeka ve Savunma Sanayii Ekosistemi.
 - **İlgi Alanları:** Veri Bilimi ve Makine Öğrenmesi,Otonom Sistemler ve Robotik.
 
