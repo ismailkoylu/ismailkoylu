@@ -32,7 +32,7 @@
 ### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/ismailkoylu](link)
-- **Email:** ismailkoylu092@gmail.com
+- **Email:** ismailkooylu@gmail.com
 
 ---
 
